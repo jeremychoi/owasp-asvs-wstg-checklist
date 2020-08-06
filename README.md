@@ -1,6 +1,6 @@
 # OWASP Application Security Checklist for Testing (mapping ASVS with WSTG)
 
-This checklist is based on OWASP Application Security Verification Standard (ASVS), mapping with the OWASP Web Security Testing Guide (WSTG). The goal is to help developers, testers or security professionals with testing the application in a more organized way.
+This checklist is based on OWASP Application Security Verification Standard (ASVS), mapping with the OWASP Web Security Testing Guide (WSTG). The goal is to help developers, testers or security professionals with testing the application/service in a more organized way.
 
 ## ASVS 
 
